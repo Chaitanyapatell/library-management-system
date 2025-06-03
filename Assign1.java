@@ -9,9 +9,9 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * The LibManageMent class is the entry point for the Library Management System.
+ * The Assign1 class is the entry point for the Library Management System.
  */
-public class LibManageMent {
+public class Assign1 {
 
     private static Library library = new Library();
     static Scanner input = new Scanner(System.in);
